@@ -7,7 +7,7 @@ int main(){
   double num2;
   double result;
 
-  std::cout << "********** CALCULATOR **********"<<'\n';
+  std::cout << "welcome"<<'\n';
   std::cout << "Enter either (+ - * /): ";
   std::cin>>op;
 
@@ -54,7 +54,7 @@ int main(){
     
   }
 
-  std::cout<<"*********************************"<<'\n';
+  
   
   return 0;
 }
